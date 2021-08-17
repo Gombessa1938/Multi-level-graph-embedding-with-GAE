@@ -1,0 +1,14 @@
+matplotlib==3.2.2
+matplotlib-inline==0.1.2
+numpy==1.19.5
+PyMetis==2020.1
+scipy==1.4.1
+torch @ https://download.pytorch.org/whl/cu102/torch-1.9.0%2Bcu102-cp37-cp37m-linux_x86_64.whl
+torch-geometric==1.7.2
+torch-scatter==2.0.8
+torch-sparse==0.6.11
+torchsummary==1.5.1
+torchtext==0.10.0
+torchvision @ https://download.pytorch.org/whl/cu102/torchvision-0.10.0%2Bcu102-cp37-cp37m-linux_x86_64.whl
+tqdm==4.62.0
+
