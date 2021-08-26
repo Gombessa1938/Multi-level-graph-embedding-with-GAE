@@ -9,5 +9,5 @@ Origial Pubmed dataset with Force Atlas 2 layout
 
 Coarsen Pubmed with GAE auto encoder embedding , plotted with T-SNE
 
-![alt text](https://github.com/Gombessa1938/Multi-level-graph-embedding-with-GAE/blob/main/img/GAE-Tsne%20with%20edges.png?raw=true)
+
 
